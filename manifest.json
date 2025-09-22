@@ -3,12 +3,12 @@
   "short_name": "LuckyDraw",
   "start_url": "/luckydraw",
   "display": "standalone",
-  "background_color": "#FDC47D",
-  "theme_color": "#FDC47D",
+  "background_color": "#FF0000",
+  "theme_color": "#FF0000",
   "icons": [
     {
       "src": "./luckycat.png",
-      "sizes": "96x96",
+      "sizes": "192x192",
       "type": "image/png"
     }
   ]
