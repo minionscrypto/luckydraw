@@ -1,7 +1,9 @@
 {
+  "id": "/luckydraw",
   "name": "Lucky Draw",
   "short_name": "LuckyDraw",
   "start_url": "/luckydraw",
+  "scope": "/luckydraw",
   "display": "standalone",
   "background_color": "#FF0000",
   "theme_color": "#FF0000",
